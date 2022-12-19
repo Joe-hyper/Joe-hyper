@@ -1,6 +1,8 @@
 <h1 align="center">Ola 👋, I'm Joe.</h1>
 <h3 align="center">A passionate fullstack data scientist from Kenya.</h3>
 
+<p align="left"> <img src="https://iconscout.com/lottie/data-visualization-analytics-3571475"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joe-hyper&label=Profile%20views&color=0e75b6&style=flat" alt="joe-hyper" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joe-hyper" alt="joe-hyper" /></a> </p>
