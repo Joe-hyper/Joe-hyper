@@ -1,5 +1,5 @@
 <h1 align="center">Ola 👋, I'm Joe.</h1>
-<h3 align="center">A passionate fullstack data scientist..</h3>
+<h3 align="center">A passionate fullstack data scientist||Busiuness Analyst||Data Engineer||Gen AI Enthusiast..</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joe-hyper&label=Profile%20views&color=0e75b6&style=flat" alt="joe-hyper" /> </p>
